@@ -109,6 +109,9 @@ footer.table {
   margin-right: 59px;
 }
 
+h4 {
+    margin-right: 120px;
+}
 p{
     margin-top: 0;
     /* margin-bottom:1rem; */
