@@ -1,0 +1,154 @@
+body {
+  margin-top: -24px;
+}
+
+.img-fluid {
+  margin-top: 15px;
+}
+.display-3 {
+  padding-top: 80px;
+  color: #ccdae2;
+}
+
+footer {
+  background-color: white;
+}
+
+@media (min-width: 576px) {
+  h1 {
+    font-size: 18px;
+    font-weight: bold;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 22px;
+    font-weight: bold;
+  }
+}
+@media screen and (max-width: 992px) {
+  h1 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+}
+
+@media screen and (max-width: 1440px) {
+  h1 {
+    font-size: 28px;
+    font-weight: bold;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  h1 {
+    font-size: 26px;
+    font-weight: bold;
+  }
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: 600px;
+}
+.line {
+  border-right: 2px solid black;
+}
+#navbarMenu {
+  height: 50px;
+}
+
+/** CSS Overdrive **/
+
+h1.p-3.ml-auto {
+  text-align: center;
+  margin-top: 30px;
+  font-size: -webkit-xxx-large;
+}
+footer.page-footer.font-small.blue.pt-4 {
+    background-color: #b5e47c;
+}
+footer.table {
+  background-color:#cce47c;
+  margin-top: 50px;
+}
+
+.Main {
+  margin-top: -30px;
+  background-color: #e6e6e6;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 10px 60px 1px -42px;
+}
+
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+.pad {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+p{
+    margin-top: 0;
+    /* margin-bottom:1rem; */
+}
+p.pad1 {
+    margin-right: 216px;
+    margin-bottom: 0px;
+}
+p.pad2{
+  margin-top: 0px;
+  margin-right: 216px;
+}
+
+.col-md-6.mb-md-0.mb-3 {
+  text-align: right;
+  margin-top: 10px;
+  padding-right: 40px;
+}
+
+.main{
+  background-image: url("../images/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-position: center center;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: center;
+}
+h1 span{
+  color: white;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+ 
+.footer-copyright.text-center.py-3 {
+    color: brown;
+}
