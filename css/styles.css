@@ -106,6 +106,7 @@ footer.table {
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 0px;
+  font-size: 16px;
 }
 
 p{
@@ -115,10 +116,12 @@ p{
 p.pad1 {
     margin-right: 216px;
     margin-bottom: 0px;
+    font-size: 16px;
 }
 p.pad2{
   margin-top: 0px;
   margin-right: 216px;
+  font-size: 16px;
 }
 
 .col-md-6.mb-md-0.mb-3 {
