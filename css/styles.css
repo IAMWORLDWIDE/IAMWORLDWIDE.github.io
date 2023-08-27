@@ -73,6 +73,10 @@ footer.table {
   background-color:#cce47c;
   margin-top: 50px;
 }
+footer.page-footer.font-small.blue.pt-4 {
+    background-color: #b5e47c;
+    margin-top: 75px;
+}
 
 .Main {
   margin-top: -30px;
@@ -105,26 +109,23 @@ footer.table {
 .pad {
   margin-top: 0px;
   margin-bottom: 0px;
-  font-size: 14px;
   margin-right: 59px;
+  font-size: 14px;
 }
 
-h5 {
-    margin-right: 120px;
-}
 p{
     margin-top: 0;
     /* margin-bottom:1rem; */
 }
 p.pad1 {
-    margin-right: 168px;
+    margin-right: 216px;
     margin-bottom: 0px;
-    font-size: 14px;
+    font-size: 15px;
 }
 p.pad2{
   margin-top: 0px;
-  margin-right: 204px;
-  font-size: 14px;
+  margin-right: 216px;
+  font-size: 15px;
 }
 
 .col-md-6.mb-md-0.mb-3 {
