@@ -109,8 +109,8 @@ footer.page-footer.font-small.blue.pt-4 {
 .pad {
   margin-top: 0px;
   margin-bottom: 0px;
-  margin-right: 100px;
-  font-size: 15px;
+  margin-right: 59px;
+  font-size: 14px;
 }
 
 p{
@@ -124,7 +124,7 @@ p.pad1 {
 }
 p.pad2{
   margin-top: 0px;
-  margin-right: 253px;
+  margin-right: 216px;
   font-size: 15px;
 }
 
@@ -159,7 +159,14 @@ h1 span{
 .footer-copyright.text-center.py-3 {
     color: brown;
 }
-
+.image-sized{
+  height: 500px;
+  width: auto;
+}
 div#sfcqbkzf11pca8lecd9qdxha9bsg3u1fd44 {
     margin-left: 530px;
 }
+
+
+.navbar-light .navbar-nav .nav-link {
+    color:black;
