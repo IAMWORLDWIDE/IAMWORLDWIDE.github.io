@@ -222,7 +222,7 @@ input[type=submit]:hover {
 /* Create two columns that float next to eachother */
 .column {
   float:inherit;
-  width: 35%;
+  width: 31%;
   margin-top: 6px;
   padding: 20px;
 }
