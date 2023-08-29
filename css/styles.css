@@ -127,6 +127,11 @@ p.pad2{
   margin-right: 241px;
   font-size: 15px;
 }
+.row.row-cols-2 {
+    width: 100%;
+    text-align-last: center;
+    padding: 5px;
+}
 
 .col-md-6.mb-md-0.mb-3 {
   text-align: right;
