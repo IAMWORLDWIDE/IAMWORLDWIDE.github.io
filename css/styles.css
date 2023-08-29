@@ -106,6 +106,9 @@ footer.page-footer.font-small.blue.pt-4 {
   background: #dd4b39;
   color: white;
 }
+.m-icon {
+    margin-left: 120px;
+}
 .pad {
   margin-top: 0px;
   margin-bottom: 0px;
