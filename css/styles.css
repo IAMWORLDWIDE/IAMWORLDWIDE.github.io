@@ -134,7 +134,7 @@ p.pad2{
   text-transform: uppercase;
   margin-right: 176px;
 }
-#Container-M.row.row-cols-2 {
+div#Container-M .row.row-cols-2 {
     width: 100%;
     text-align-last: center;
     padding: 5px;
