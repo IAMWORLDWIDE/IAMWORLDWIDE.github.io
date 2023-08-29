@@ -241,3 +241,6 @@ input[type=submit]:hover {
     margin-top: 0;
   }
 }
+.row row-cols-1{
+  margin-top: 10px;
+}
