@@ -15,9 +15,31 @@ footer {
 }
 
 @media screen and (min-width: 480px){
-  p{
-    font-size: 12px;
-  }
+  .pad {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 157px;
+  font-size: 14px;
+}
+
+p{
+    margin-top: 0;
+    /* margin-bottom:1rem; */
+}
+p.pad1 {
+    margin-right: 250px;
+    margin-bottom: 0px;
+    font-size: 15px;
+}
+p.pad2{
+  margin-top: 0px;
+  margin-right: 246px;
+  font-size: 15px;
+}
+.detail{
+  text-transform: uppercase;
+  margin-right: 176px;
+}
 }
 @media (min-width: 576px) {
   h1 {
