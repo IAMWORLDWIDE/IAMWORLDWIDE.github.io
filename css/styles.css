@@ -127,6 +127,10 @@ p.pad2{
   margin-right: 241px;
   font-size: 15px;
 }
+.detail{
+  text-transform: uppercase;
+  margin-right: 20px;
+}
 .row.row-cols-2 {
     width: 100%;
     text-align-last: center;
