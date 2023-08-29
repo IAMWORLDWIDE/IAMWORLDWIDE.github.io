@@ -243,4 +243,5 @@ input[type=submit]:hover {
 }
 .row row-cols-1{
   margin-top: 10px;
+  position: relative;
 }
