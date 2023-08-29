@@ -161,20 +161,20 @@ p{
     /* margin-bottom:1rem; */
 }
 p.pad1 {
-    margin-right: 250px;
+   
     margin-bottom: 0px;
     font-size: 15px;
 }
 p.pad2{
   margin-top: 0px;
-  margin-right: 246px;
+ 
   font-size: 15px;
    padding-left: 0px;
     padding-right: 0px;
 }
 h6.detail{
   text-transform: uppercase;
-  margin-right: 176px;
+ 
    padding-left: 0px;
     padding-right: 0px;
 }
