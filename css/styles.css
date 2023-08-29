@@ -166,7 +166,6 @@ p.pad2{
 }
 div#Container-M .row.row-cols-2 {
     width: 100%;
-    text-align-last: center;
     padding: 5px;
 }
 
@@ -282,4 +281,9 @@ input[type=submit]:hover {
     width: 100%;
     margin-top: 0;
   }
+}
+
+.col{
+    padding-left: 0px;
+    padding-right: 0px;
 }
