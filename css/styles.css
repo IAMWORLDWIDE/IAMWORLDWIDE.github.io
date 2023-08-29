@@ -20,6 +20,8 @@ footer {
   margin-bottom: 0px;
   margin-right: 157px;
   font-size: 14px;
+   padding-left: 0px;
+    padding-right: 0px;
 }
 
 p{
@@ -30,15 +32,21 @@ p.pad1 {
     margin-right: 250px;
     margin-bottom: 0px;
     font-size: 15px;
+     padding-left: 0px;
+    padding-right: 0px;
 }
 p.pad2{
   margin-top: 0px;
   margin-right: 246px;
   font-size: 15px;
+   padding-left: 0px;
+    padding-right: 0px;
 }
 .detail{
   text-transform: uppercase;
   margin-right: 176px;
+   padding-left: 0px;
+    padding-right: 0px;
 }
 }
 @media (min-width: 576px) {
