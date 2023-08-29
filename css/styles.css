@@ -14,10 +14,18 @@ footer {
   background-color: white;
 }
 
+@media screen and (min-width: 480px){
+  p{
+    font-size: 12px;
+  }
+}
 @media (min-width: 576px) {
   h1 {
     font-size: 18px;
     font-weight: bold;
+  }
+  p{
+    font-size: 12px;
   }
 }
 
