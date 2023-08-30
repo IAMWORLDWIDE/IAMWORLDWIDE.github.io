@@ -167,7 +167,7 @@ div#Container-M .row.row-cols-2 {
   padding-right: 40px;
 }
 
-.Main Container-fluid{
+body{
   background-image: url("../images/bg.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
