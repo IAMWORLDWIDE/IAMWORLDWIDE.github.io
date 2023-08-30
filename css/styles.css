@@ -1,5 +1,11 @@
-body {
-  margin-top: -24px;
+
+
+body{
+  background-image: url("../images/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-position: center center;
 }
 
 .img-fluid {
@@ -85,10 +91,6 @@ footer.page-footer.font-small.blue.pt-4 {
     margin-top: 75px;
 }
 
-.Main {
-  background-color: #e6e6e6;
-  text-align: center;
-}
 
 .fa {
   padding: 10px;
@@ -167,13 +169,6 @@ div#Container-M .row.row-cols-2 {
   padding-right: 40px;
 }
 
-body{
-  background-image: url("../images/bg.jpg");
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  background-attachment: fixed;
-  background-position: center center;
-}
 
 .row {
     display: -ms-flexbox;
