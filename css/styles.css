@@ -231,7 +231,7 @@ form { max-width:420px; margin:50px auto; }
   font-family: Helvetica, Arial, sans-serif;
   font-weight:500;
   font-size: 18px;
-  border-radius: 5px;
+  border-radius: 3px;
   line-height: 22px;
   background-color: transparent;
   border:2px solid #000;
@@ -243,7 +243,7 @@ form { max-width:420px; margin:50px auto; }
   outline:0;
 }
 
-.feedback-input:focus { border:2px solid #000; }
+.feedback-input:focus { border:1px solid #000; }
 
 textarea {
   height: 150px;
@@ -254,7 +254,7 @@ textarea {
 [type="submit"] {
   width: 100%;
   background:#b5e47c;
-  border-radius:5px;
+  border-radius:3px;
   border:0;
   cursor:pointer;
   color:black;
@@ -265,7 +265,7 @@ textarea {
   margin-top:-4px;
   font-weight:700;
 }
-[type="submit"]:hover { background:#007c00; }
+[type="submit"]:hover { background:#589d00; }
 
 #m.col{
     padding-left: 0px;
