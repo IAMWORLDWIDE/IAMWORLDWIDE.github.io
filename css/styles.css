@@ -252,7 +252,6 @@ textarea {
 }
 
 [type="submit"] {
-  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
   width: 100%;
   background:#b5e47c;
   border-radius:5px;
@@ -266,7 +265,7 @@ textarea {
   margin-top:-4px;
   font-weight:700;
 }
-[type="submit"]:hover { background:#b5e47c; }
+[type="submit"]:hover { background:#007c00; }
 
 #m.col{
     padding-left: 0px;
