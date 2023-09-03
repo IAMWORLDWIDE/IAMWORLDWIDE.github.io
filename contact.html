@@ -66,9 +66,10 @@
     <h2>Contact Me</h2>
     <p>leave a message:</p>
   </div>
-    <form action="https://formsubmit.co/warenchua123@gmail.com" method="POST" autocomplete="on">      
-          <input name="name" type="text" class="feedback-input" placeholder="Name" />   
-          <input name="email" type="text" class="feedback-input" placeholder="Email" />
+    <form action="https://formsubmit.co/warenchua123@gmail.com" method="POST">      
+          <input name="name" type="text" class="feedback-input" placeholder="Name" required>   
+          <input name="email" type="text" class="feedback-input" placeholder="Email" required>
+          <input type="hidden" name="_next" value="https://iamworldwide.github.io/thanku.html">
           <textarea name="text" class="feedback-input" placeholder="Comment"> </textarea>
            <input type="submit" value="SUBMIT"/>
      </form>
